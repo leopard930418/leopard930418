@@ -56,7 +56,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 </table>
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="https://github.com/Temple424/Temple424/blob/Temle/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/leopard930418/leopard930418/blob/main/1_VMmvImch6VU5pc2VktY1uw.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website
 <br />
