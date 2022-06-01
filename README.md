@@ -55,7 +55,7 @@
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="https://github.com/Kilros0817/Kilros0817/blob/main/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="images.jfif" width="400" />
  
 ### DApps & NFT Game
 <br />
