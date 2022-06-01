@@ -57,15 +57,15 @@
 
 <img align="right" alt="GIF" src="images.jfif" width="400" />
  
-### DApps & NFT Game
+### WEB & DAPP
 <br />
 
-### Smart Contract & Crypto
+### NFT GAME & Smart Contract
 <br />
 
 ### Crypto Trading Platforms & Bots
 <br />
 
-### AR & VR Web and Mobile application
+### Mobile application
 
  
