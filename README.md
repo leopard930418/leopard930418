@@ -63,8 +63,6 @@
 ### NFT GAME & Smart Contract
 <br />
 
-### Crypto Trading Platforms & Bots
-<br />
 
 ### Mobile application
 
