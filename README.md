@@ -24,20 +24,10 @@ Senior Software Engineer specializing in full-stack and AI-driven development, b
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,jquery,redux,html,css,bootstrap,threejs" /><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c,cpp,cs" /><br>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,netlify" /><br>
-      <img src="https://skillicons.dev/icons?i=github,git,gitlab,vscode,visualstudio,postman" /><br>
-
-    <!-- <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,github,python,javascript,express,mongodb,c,java,jquery,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,github,python,javascript,express,mongodb,c,java,jquery,redux" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,git" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,docker,gitlab,linux,netlify,postman,threejs,cs,visualstudio" /> -->
-  
-
-     
-
-          <!-- Custom Skill Badges -->
+    <img src="https://skillicons.dev/icons?i=cpp,docker,gitlab,linux,netlify,postman,threejs,cs,visualstudio" />
+    <!-- Custom Skill Badges -->
 </div>
 
  
