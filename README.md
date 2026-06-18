@@ -1,4 +1,4 @@
-# <b>Hello!<img width="50" src="https://i.pinimg.com/originals/c5/f5/05/c5f5055d17a01239f44333f851e6b89e.gif"></b>
+# <b>Hello! I am leopard</b>
 <p align="center">
   <img align="center" src="image1.png" style = "width: 33%;"/>
   <img align="center" src="image2.png" style = "width: 33%;"/>
