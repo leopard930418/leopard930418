@@ -24,9 +24,9 @@ Senior Software Engineer specializing in full-stack and AI-driven development, b
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,github,python,javascript,express,mongodb,c,java,jquery,redux" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,git" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,docker,gitlab,linux,netlify,postman,threejs,cs,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,javascript,express,bootstrap,java,jquery,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,html,css,c,cpp,vscode,git" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,gitlab,github,linux,netlify,postman,threejs,cs,visualstudio" />
     <!-- Custom Skill Badges -->
 </div>
 
