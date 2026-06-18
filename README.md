@@ -11,10 +11,7 @@
   <a href="https://join.skype.com/invite/A3T4pSMKQgoA"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1> 
   <p style="fontSize:15px">
- Full Stack Developer with 3+ years of experience building and deploying production web applications
-  using JavaScript, Node.js, React, and Django. Strong background in backend API development, database
-  design, and cloud deployment using AWS and Docker. Experienced in delivering scalable systems from
-  architecture design through production release in fast-paced environments
+Senior Software Engineer specializing in full-stack and AI-driven development, building scalable, high-performance applications using React, Node.js, Python (Django/FastAPI), and cloud technologies. Experienced in designing real-time systems, optimizing performance, and delivering robust solutions across distributed environments.
 </p>
 <p align="center">
   <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Developer;3+%2B%20years%20of%20extensive%20experience;&center=true&width=800&height=45"></a>
@@ -22,7 +19,7 @@
  
 <h2>📊 Github Activity</h2>
 
-<img alt="YoRHa0908's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=leopard930418&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Leopard930418's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=leopard930418&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
